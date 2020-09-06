@@ -40,7 +40,7 @@ Enter number of decks (int > 0):
 ==========================================
 ```
 
-2. From webapp using flask UI
+2. From webapp using flask UI from the same directory
 
 ```shell
 python flaskApp.py
