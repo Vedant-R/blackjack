@@ -64,7 +64,7 @@ Example:
 
 ```
 
-![Flask Screenshot](single_player/flask_screenshot.png)
+![Flask Screenshot](flask_screenshot.png)
 
 ## Tests
 
