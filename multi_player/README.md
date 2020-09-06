@@ -68,7 +68,7 @@ Example:
 
 ```
 
-![Flask Screenshot](multi_player/flask_screenshot.png)
+![Flask Screenshot](flask_screenshot.png)
 
 **NOTE:** `Performance`, `Multi players` and `multiple pack of cards` considerations are taken care of in this work.
 
